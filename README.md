@@ -1,8 +1,8 @@
 # 💫 About Me:
-<b>🔭 I’m currently working on E-Commerce App:</b> Refining my skills and tackling new challenges.<br>
-<b>👯 I’m passionate about Open Source Contributions:</b> Looking to contribute to impactful projects.<br>
-<b>🌱 I’m currently learning Machine Learning:</b> Deepening my understanding and experimenting with new techniques.<br>
-<b>🚀 I’m exploring new technologies:</b> Integrating emerging tech trends into my projects.<br>
+<b>🔭 Currently working on E-Commerce App:</b> Refining my skills and tackling new challenges.<br>
+<b>👯 Passionate about Open Source Contributions:</b> Looking to contribute to impactful projects.<br>
+<b>🌱 Diving into learning Machine Learning:</b> Deepening my understanding and experimenting with new techniques.<br>
+<b>🚀 Exploring new technologies:</b> Integrating emerging tech trends into my projects.<br>
 <b>💬 Ask me about anything:</b> Always open to discussions and sharing knowledge.<br>
 <b>⚡ Fun fact:</b> I’m a Programmer & I have no life.<br>
 
