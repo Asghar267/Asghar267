@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>👯 I’m looking to collaborate on AI Projects<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about anything<br>⚡ Fun fact I am Programmer and I have no Life
+<b>🔭 I’m currently working on E-Commerce App:</b> Refining my skills and tackling new challenges.<br>
+<b>👯 I’m passionate about Open Source Contributions:</b> Looking to contribute to impactful projects.<br>
+<b>🌱 I’m currently learning Machine Learning:</b> Deepening my understanding and experimenting with new techniques.<br>
+<b>🚀 I’m exploring new technologies:</b> Integrating emerging tech trends into my projects.<br>
+<b>💬 Ask me about anything:</b> Always open to discussions and sharing knowledge.<br>
+<b>⚡ Fun fact:</b> I’m a Programmer & I have no life.<br>
+
 
 
 ## 🌐 Socials:
