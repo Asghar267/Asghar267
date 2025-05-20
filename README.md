@@ -1,10 +1,12 @@
 # 💫 About Me:
-<b>🔭 Currently working on E-Commerce App:</b> Refining my skills and tackling new challenges.<br>
-<b>👯 Passionate about Open Source Contributions:</b> Looking to contribute to impactful projects.<br>
-<b>🌱 Diving into learning Machine Learning:</b> Deepening my understanding and experimenting with new techniques.<br>
-<b>🚀 Exploring new technologies:</b> Integrating emerging tech trends into my projects.<br>
-<b>💬 Ask me about anything:</b> Always open to discussions and sharing knowledge.<br>
-<b>⚡ Fun fact:</b> I’m a Programmer & I have no life.<br>
+
+<b>🔭 Currently working on:</b> SmartHire – an AI-powered recruitment platform with real-time AI interviews, resume parsing, and candidate evaluation tools.<br>
+<b>👯 Open Source Enthusiast:</b> Always eager to collaborate on impactful, community-driven projects.<br>
+<b>🌱 Learning Focus:</b> Actively exploring Machine Learning, NLP, and GenAI to build smarter systems.<br>
+<b>🚀 Tech Explorer:</b> Passionate about integrating cutting-edge technologies like LLMs, OCR, and Computer Vision into real-world apps.<br>
+<b>💬 Let's Talk:</b> Open to discussions on Python, Django, ML, AI, and all things tech.<br>
+<b>⚡ Fun fact:</b> I build smart apps and debug life one line at a time.<br>
+
 
 
 
